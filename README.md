@@ -3,6 +3,24 @@ This is demo for app that is a management system designed for an optical shop. I
 
 ---
 
+⚠️ **Note**:
+- This repo contains **demo builds only** (no source code).  
+- The all app data is wiped after app is closed.
+
+---
+
+
+## 🖼️ Screenshots
+![Takeaway Screen](screenshot1.png)
+![Tables Screen](screenshot2.png)
+![Delivery Screen](screenshot3.png)
+![More Screens](screenshot4.png)
+
+[▶️ Watch on Google Drive](https://drive.google.com/file/d/11BzVbuhZtgkNfEOOvE1VK4u2xafSenmG/view?usp=drive_link)
+
+
+---
+
 ## App Features
 
 1. Invoicing:
